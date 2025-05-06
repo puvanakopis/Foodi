@@ -19,5 +19,6 @@ This project has been an incredible journey, encompassing design, development, a
 
 Here’s a screenshot of the **Foodi** website:
 
-![Foodi Website Screenshot](https://github.com/user-attachments/assets/536829ba-773c-450d-88a9-95c77ec13d17)
+![image](https://github.com/user-attachments/assets/c0e3ec91-be82-4cca-8152-954589db770a)
+
 
